@@ -7,114 +7,68 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Santanu Karmakar
+    tagline: Ruby on Rails Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: skarmakar.personal@gmail.com
+    phone: +91 9874292296
+    website: 
+    linkedin: skarmakar
+    github: skarmakar
+    telegram:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@santanutt'
+    stack-overflow: 869175/santanu-karmakar
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Bengali
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ruby on Rails full architect having more than 14+ years experience handling different kind of complex, hybrid to small startup applications
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: B Tech in Electronics & Instrumentation Engineering
+      university: WBUT University
+      time: 2001 - 2005
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Engineering Manager
+      time: Jan 2020 - Present
+      company: Continental Automotive Components India Pvt Ltd
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Managed the Web, QA and Design teams. Architect and web tech lead for multiple Singapore Govt projects. 
+        Hands on for complex business logic implementations. Involved in process building and betterments and 
+        complete the projects successfully to pass all the UAT cycles. 
+    - role: Manager - Web Systems
+      time: April 2018 - Dec 2020
+      company: Continental Automotive Components India Pvt Ltd
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Manage the Web team for multiple projects. 
+        Architect and web tech lead for multiple SIngapore Govt projects. 
+        Hands on for complex business logic implementations.
+    - role: Team Lead - Web Systems
+      time: May 2016 - March 2018
+      company: Aeicorp Technologies -Quantum Inventions Development Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Manage the Web team. 
+        Architect solutions for multiple web applications related to Traffic Information Collection and Monitoring. 
+        Helping team building car sharing and logistics applications.
 projects:
     title: Projects
     intro: >
@@ -168,23 +122,30 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Ruby
+        level: 85%
 
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: RSpec
+        level: 85%
+
+      - name: Javascript & jQuery
+        level: 85%
+
+      - name: PostgreSQL
+        level: 80%
+
+      - name: MySQL
+        level: 80%
+
+      - name: Oracle - with Rails ORM
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 85%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
