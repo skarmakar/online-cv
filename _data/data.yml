@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: skarmakar.personal@gmail.com
     phone: +91 9874292296
-    website: 
+    website:
     linkedin: skarmakar
     github: skarmakar
     telegram:
@@ -42,81 +42,79 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ruby on Rails full architect having more than 14+ years experience handling different kind of complex, hybrid to small startup applications
+      Ruby on Rails architect having more than 14+ years experience handling different kind of complex, hybrid to small startup applications
+
 education:
     - degree: B Tech in Electronics & Instrumentation Engineering
       university: WBUT University
       time: 2001 - 2005
+
 experiences:
     - role: Engineering Manager
-      time: Jan 2020 - Present
+      time: Jan 2020 - PRESENT
       company: Continental Automotive Components India Pvt Ltd
       details: |
-        Managed the Web, QA and Design teams. Architect and web tech lead for multiple Singapore Govt projects. 
-        Hands on for complex business logic implementations. Involved in process building and betterments and 
-        complete the projects successfully to pass all the UAT cycles. 
+        Managed the Web, QA and Design teams. Architect and web tech lead for multiple Singapore Govt enterprise projects.
+        Hands on for complex business logic implementations. Involved in process building and betterments and
+        complete the projects successfully to pass all the UAT cycles.
+        Helped the team to deliver customer dispatch management system for Maria Bay Sands, Singapore and various
+        other projects.
     - role: Manager - Web Systems
-      time: April 2018 - Dec 2020
+      time: April 2018 - Dec 2019
       company: Continental Automotive Components India Pvt Ltd
       details: |
-        Manage the Web team for multiple projects. 
-        Architect and web tech lead for multiple SIngapore Govt projects. 
-        Hands on for complex business logic implementations.
+        Manage the Web team for multiple projects.
+        Architect and web tech lead for multiple Singapore Govt enterprise projects, helped the team to deliver
+        Car sharing application for Assa - Indonesia, vehicle tracking systems for Elnusa - Indonesia
+        Hands on developing Ruby on Rails applications.
     - role: Team Lead - Web Systems
       time: May 2016 - March 2018
       company: Aeicorp Technologies -Quantum Inventions Development Center
       details: |
-        Manage the Web team. 
-        Architect solutions for multiple web applications related to Traffic Information Collection and Monitoring. 
-        Helping team building car sharing and logistics applications.
+        Manage the Web team.
+        Architect solutions for multiple web applications related to Traffic Information Collection and Monitoring.
+        Helping team building paking management applications and logistics applications.
+    - role: VP Engineering (last position held)
+      time: June 2006 - April 2016
+      company: Kreeti Technologies Pvt Ltd
+      details: |
+        Was managing a team of around 20 engineers and 5-6 projects.
+        Involved in overseas (USA) client interactions, architecting the solutions and coding.
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Apart from the multiple Govt projects (can not provide the details as they are confidential),
+      worked on various domains like e-commerce, recruitment management, laboratory management, social information
+      synching applications.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: The RealReal
+        link: "https://www.therealreal.com/"
+        tagline: |
+          It is one of the largest platforms of authenticated luxury consignments. It
+          offers the largest selection of pre-owned and authenticated luxury items
+          from big designers like Chanel, Hermes, Cartier, Rolex, Gucci etc.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Switchboard Sales - formerly sMarketplace
+        link: "https://www.switchboardsales.com/"
+        tagline: |
+          It is a B2B platform where retailers and brands can give proposals which if
+          accepted by either of the parties become a deal and get recorded. It
+          makes the buying and selling on i-store promotions hassle free and
+          economic at the same time
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Clockwork Recruiting
+        link: "https://www.clockworkrecruiting.com/"
+        tagline: |
+          It is an online recruitment process management platform, which can
+          manage the entire search process for executive search firms,
+          corporations, Venture Capital and Private Equity firms.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: TMS Labsource
+        link: "https://tms.mylabsource-iso.com/"
+        tagline: |
+          It is a HIPAA complaint laboratory management system providing multi
+          tenant solutions to multiple clients.
 
 skills:
     title: Skills &amp; Proficiency
@@ -141,10 +139,13 @@ skills:
         level: 80%
 
       - name: Oracle - with Rails ORM
-        level: 80%
+        level: 70%
 
       - name: HTML5 & CSS
         level: 85%
+
+      - name: React
+        level: 40%
 
 
 footer: >
