@@ -88,12 +88,32 @@ projects:
       worked on various domains like e-commerce, recruitment management, laboratory management, social information
       synching applications.
     assignments:
+      - title: Social Kapture
+        link: "https://www.socialkapture.com/"
+        tagline: |
+          Building dashboard application which used to sync social and ad analytics from Facebook, Instagram, Google
+          and provide and curated user interface for the clients of Social Kapture.
+
       - title: The RealReal
         link: "https://www.therealreal.com/"
         tagline: |
           It is one of the largest platforms of authenticated luxury consignments. It
           offers the largest selection of pre-owned and authenticated luxury items
           from big designers like Chanel, Hermes, Cartier, Rolex, Gucci etc.
+
+      - title: Clockwork Recruiting
+        link: "https://www.clockworkrecruiting.com/"
+        tagline: |
+          It is an online recruitment process management platform, which can
+          manage the entire search process for executive search firms,
+          corporations, Venture Capital and Private Equity firms.
+
+      - title: Fotomoto
+        link: "https://www.fotomoto.com/"
+        tagline: |
+          Fotomoto is an e-commerce system that gives everyone the power to offer print-on-demand
+          for their images on their own site, from independent photographers to graphic designers and illustrators
+          to large enterprises.
 
       - title: Switchboard Sales - formerly sMarketplace
         link: "https://www.switchboardsales.com/"
@@ -103,18 +123,16 @@ projects:
           makes the buying and selling on i-store promotions hassle free and
           economic at the same time
 
-      - title: Clockwork Recruiting
-        link: "https://www.clockworkrecruiting.com/"
-        tagline: |
-          It is an online recruitment process management platform, which can
-          manage the entire search process for executive search firms,
-          corporations, Venture Capital and Private Equity firms.
-
       - title: TMS Labsource
         link: "https://tms.mylabsource-iso.com/"
         tagline: |
           It is a HIPAA complaint laboratory management system providing multi
           tenant solutions to multiple clients.
+
+      - title: HipChip
+        link: "https://www.hipchip.com/"
+        tagline: |
+          A gifting solution for near and dear ones.
 
 skills:
     title: Skills &amp; Proficiency
