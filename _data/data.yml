@@ -50,8 +50,14 @@ education:
       time: 2001 - 2005
 
 experiences:
+    - role: Lead Software Developer
+      time: April 2021 - Present
+      company: Saeloun - Contract
+      details: |
+        Working on multiple projects of Ooma Inc
+
     - role: Engineering Manager
-      time: Jan 2020 - PRESENT
+      time: Jan 2020 - April 2021
       company: Continental Automotive Components India Pvt Ltd
       details: |
         Managed the Web, QA and Design teams. Architect and web tech lead for multiple Singapore Govt enterprise projects.
@@ -59,6 +65,7 @@ experiences:
         complete the projects successfully to pass all the UAT cycles.
         Helped the team to deliver customer dispatch management system for Maria Bay Sands, Singapore and various
         other projects.
+
     - role: Manager - Web Systems
       time: April 2018 - Dec 2019
       company: Continental Automotive Components India Pvt Ltd
